@@ -1,2 +1,14 @@
-# vue-comments-app
-Este projeto é um sistema simples de comentários construído com Vue.js e Bootstrap. Permite aos usuários adicionar, visualizar e excluir comentários de forma dinâmica, com uma interface limpa e responsiva. Ideal para aprender os fundamentos do Vue.js e a interação com dados no front-end
+# Comentários Vue.js
+
+Este é um aplicativo simples de comentários construído com Vue.js e Bootstrap. Os usuários podem adicionar comentários com um nome e uma mensagem, e também podem excluir comentários.
+
+## Funcionalidades
+
+- Adicionar comentários.
+- Excluir comentários.
+- Nome opcional para comentários; se não fornecido, o autor será exibido como "Anônimo".
+
+## Tecnologias Utilizadas
+
+- [Vue.js](https://vuejs.org/): Framework JavaScript progressivo para construção de interfaces de usuário.
+- [Bootstrap](https://getbootstrap.com/): Framework CSS para estilização responsiva e rápida.
